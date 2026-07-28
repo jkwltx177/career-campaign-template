@@ -1,0 +1,1 @@
+{"timeout_sec": 5, "examples": [{"input": [1, 2], "output": 3}, {"input": [-5, 5], "output": 0}], "grading": [{"input": [0, 0], "output": 0, "kind": "정확성"}, {"input": [1000000, 1000000], "output": 2000000, "kind": "정확성"}, {"input": [-1000000, 999999], "output": -1, "kind": "정확성"}, {"input": [123456, -654321], "output": -530865, "kind": "정확성"}]}
