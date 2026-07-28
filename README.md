@@ -96,10 +96,16 @@ memory/
 - **복기 문화** — 코테·면접이 끝나면 결과와 막힌 지점을 던지고 복기를 요청하라. 기록이 쌓일수록 코칭이 정밀해진다.
 - **세션 루틴** — 시작 `git pull`, 종료 커밋+`git push`. 한 번에 한 PC. (상세: [세팅_사용법.md](세팅_사용법.md))
 
+## 향후 계획
+
+- 영문판 README
+- 데모 GIF·세션 캡처
+- 워크플로우 추가
+
 ## License
 
 MIT — 자유롭게 쓰되, 캠페인 데이터가 쌓이는 본인 레포는 반드시 private으로.
 
 ---
 
-취준에 도움이 됐다면 ⭐ 하나 남겨주세요 — 개선(영문판·데모 GIF·워크플로우 추가) 우선순위에 반영됩니다.
+If you find this project helpful, please consider giving it a ⭐!
